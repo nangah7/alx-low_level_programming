@@ -2,7 +2,7 @@
 /**
  *main - print text using puts instead of printf
  *
- * Return 0
+ * Return: 0
  */
 
 int main(void)
