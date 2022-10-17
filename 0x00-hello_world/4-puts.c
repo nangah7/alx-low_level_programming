@@ -1,4 +1,3 @@
-#!/bin/bash
 #include <stdio.h>
 /*
  *main - print text using puts instead of printf
