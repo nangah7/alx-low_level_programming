@@ -1,12 +1,8 @@
 #include <stdio.h>
 /**
- *
  * main - print text using printf
  *
- *
- *
  * Return: 0
- *
 */
 
 int main(void)
